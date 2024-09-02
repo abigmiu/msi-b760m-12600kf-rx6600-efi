@@ -1,4 +1,7 @@
 # msi-b760m-A-wifi-II-12600kf-rx6600
+
+目前设置的是支持macos12
+
 微星B760M-A wifi II , cpu 12600KF，显卡 技嘉6600. 
 显卡温度能识别
 ![image](https://github.com/user-attachments/assets/2001d1de-9f87-4dce-bceb-da9788f8bbc9)
